@@ -1,0 +1,11 @@
+__pycache__/
+cache/
+farm_db/
+parent_docstore/
+
+.env
+
+*.zip
+*.pdf
+*.csv
+*.xlsx
